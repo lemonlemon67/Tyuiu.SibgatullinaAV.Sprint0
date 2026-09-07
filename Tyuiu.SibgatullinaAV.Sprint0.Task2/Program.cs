@@ -14,4 +14,5 @@ namespace Tyuiu.SibgatullinaAV.Sprint0.Task2
             Console.ReadKey();
         }
     }
+
 }
