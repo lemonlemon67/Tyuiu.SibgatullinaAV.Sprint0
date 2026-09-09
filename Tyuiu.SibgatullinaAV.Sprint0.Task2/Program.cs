@@ -12,6 +12,7 @@ namespace Tyuiu.SibgatullinaAV.Sprint0.Task2.V0
         {
             Console.WriteLine(DataService.GetMessage("кокакола"));
             Console.ReadKey();
+
         }
     }
 
