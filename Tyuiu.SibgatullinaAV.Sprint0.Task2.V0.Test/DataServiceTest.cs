@@ -13,6 +13,7 @@ namespace Tyuiu.SibgatullinaAV.Sprint0.Task2.V0.Test
             var name = "кокакола";
             var res = DataService.GetMessage(name);
             Assert.AreEqual("хеллоу!!!!, кокакола", res);
+
         }
     }
 }
