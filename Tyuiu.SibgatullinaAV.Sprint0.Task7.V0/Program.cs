@@ -17,7 +17,7 @@ namespace Tyuiu.SibgatullinaAV.Sprint0.Task7.V0
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #0                                                              *");
-            Console.WriteLine("* Выполнил: Сибгатуллина Амина Вадимовна | РППб-26-1                      *");
+            Console.WriteLine("* Выполнила: Сибгатуллина Амина Вадимовна | РППб-26-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух    *");
